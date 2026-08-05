@@ -11,7 +11,7 @@ const payItems = [
       "A valid CDL Class A license is required to operate commercial vehicles across the United States.",
   },
   {
-    title: "Minimum 3 Months of Experience",
+    title: "Minimum 6 Months of Experience",
     icon: <img src="/road.svg" alt="Experience" className="w-8 h-8" />,
     description:
       "At least 6 months of verifiable OTR driving experience is required to join our team.",
